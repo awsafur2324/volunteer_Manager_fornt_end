@@ -1,0 +1,31 @@
+.swiper-button-next { color: rgba(111, 75, 4, 0.527); }
+.swiper-button-prev { color: rgba(111, 75, 4, 0.527); }
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    max-width: fit-content;
+    text-align: center;
+}
+.bg_slide1{
+    background-image:  url('../../assets/shadow.jpg') , url('../../assets/856.jpg')  ;
+    background-position: center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover , cover;
+    width: 100%;
+}
+.bg_slide{
+    background-image:  url('../../assets/shadow.jpg') , url('../../assets/2151043312.jpg')  ;
+    background-position: center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover , cover;
+    width: 100%
+}
+.bg_slide3{
+    background-image:  url('../../assets/shadow.jpg') , url('../../assets/27024.jpg')  ;
+    background-position: center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover , cover;
+    width: 100%
+}
