@@ -25,13 +25,13 @@ A web application designed to streamline the process of managing volunteers for 
 # Installation -
 1. clone the repo
 ```markdown
-git clone https://github.com/awsafur2324/PetHouseBD_Client_React.git
+git clone https://github.com/awsafur2324/volunteer_Manager_fornt_end.git
 ```
 2. Now run the file location on the command prompt and install npm
 ```markdown
 npm i
 ```
-3. Now add a .env file with Firebase authentication data and imgbb Api
+3. Now add a .env file with Firebase authentication data 
 4. Run the file and enjoy
 ```markdown
 npm run dev
